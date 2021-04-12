@@ -1,0 +1,34 @@
+.tile {
+    display: inline-flex;
+    background-color: #59D228;
+}
+
+.rock {
+    background-image: url('../../tiles/rock.png');
+}
+
+.tree {
+    background-image: url('../../tiles/tree.png');
+}
+
+.chest {
+    background-image: url('../../tiles/chest.png');
+}
+
+.bush {
+    background-image: url('../../tiles/bush.png');
+}
+
+.herb {
+    background-image: url('../../tiles/herb.png');
+    background-position-x: -486px;
+    background-position-y: -357px;
+}
+
+.skeleton {
+    background-image: url('../../tiles/skeleton.png');
+}
+
+.campfire {
+    background-image: url('../../tiles/campfire.gif');
+}
